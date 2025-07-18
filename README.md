@@ -69,7 +69,3 @@ After building the project, you can run the examples by executing the compiled b
 
 - CUDA Toolkit (version X.X or higher)
 - CMake (version X.X or higher)
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
